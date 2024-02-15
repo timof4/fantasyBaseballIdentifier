@@ -1,0 +1,36 @@
+"Ace Pitcher, Young",25,APY
+"Ace Pitcher, Old",15,APO
+"Good Pitcher, Young",20,GPY
+"Good Pitcher, Old",8,GPO
+"Solid starting pitcher, Young",15,SSPY
+"Solid starting pitcher, Old",4,SSPO
+"Fringe Starting Pitcher, Young",7,FSPY
+"Fringe Starting Pitcher, Old",2,FSPO
+"Bad Starting Pitcher, Young",2,BSPY
+"Bad Starting Pitcher, Old",1,BSPO
+"Excellent Reliever, Young",7,ERY
+"Excellent Reliever, Old",5,ERO
+"Fine Reliever, Young",5,FRY
+"Fine Reliever, Old",4,FRO
+"Bad Reliever, Young",3,BRY
+"Bad Reliever, Old",1,BRO
+"Star Batter, Young",30,SBY
+"Star Batter, Old",25,SBO
+"Borderline Star, Young",25,BSY
+"Borderline Star, Old",18,BSO
+"Very Good Batter, Young",20,VGBY
+"Very Good Batter, Old",13,VGBO
+"Solid Starting Batter, Young",8,SSBY
+"Solid Starting Batter, Old",6,SSBO
+"Fringe Flex Batter, Young",5,FFBY
+"Fringe Flex Batter, Old",4,FFBO
+"Decent Bench Batter, Young",4,DBBY
+"Decent Bench Batter, Old",3,DBBO
+"Bad Bench Batter, Young",2,BBBY
+"Bad Bench Batter, Old",1,BBBO
+"Fantastic Prospect, Old",30,FPO
+"Fantastic Prospect, Young",20,FPY
+"Very Good Prospect, Y/O",17,VGP
+"Pretty Good Prospect, Y/O",10,PGP
+"Solid Prospect, Y/O",4,SP
+"Unclear/Bad Prospect, Y/O",1,UBP
